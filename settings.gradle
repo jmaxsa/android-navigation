@@ -1,2 +1,4 @@
 rootProject.name = "android-navigation"
 include ':app'
+include ':login'
+include ':home'
